@@ -1,4 +1,4 @@
-package com.amazon.attempt;
+package local.code.sorting;
 
 //Java program to find minimum element in a sorted and rotated array
 import java.util.*;

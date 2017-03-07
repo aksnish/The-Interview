@@ -1,4 +1,4 @@
-package com.amazon.attempt;
+package local.code.sorting;
 
 import java.util.ArrayList;
 import java.util.List;

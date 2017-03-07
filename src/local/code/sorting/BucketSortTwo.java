@@ -1,4 +1,4 @@
-package com.amazon.attempt;
+package local.code.sorting;
 
 public class BucketSortTwo{
     public static void sort(int[] a, int maxVal){

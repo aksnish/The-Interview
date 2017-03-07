@@ -1,4 +1,4 @@
-package com.amazon.attempt;
+package local.code.sorting;
 
 public class InsertionSort {
     public static <T extends Comparable<T>> void sort(T[] array) {

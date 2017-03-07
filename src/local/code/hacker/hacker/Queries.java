@@ -1,4 +1,4 @@
-package com.amazon.hacker;
+package local.code.hacker.hacker;
 
 import java.util.*;
 
