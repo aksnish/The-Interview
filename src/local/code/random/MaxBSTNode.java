@@ -1,4 +1,4 @@
-package local.code.hacker;
+package local.code.random;
 
 public class MaxBSTNode {
 

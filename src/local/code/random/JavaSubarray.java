@@ -1,4 +1,4 @@
-package local.code.hacker;
+package local.code.random;
 
 import java.io.*;
 import java.util.*;
