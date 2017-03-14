@@ -1,4 +1,4 @@
-package local.code.sorting;
+package Sorting;
 
 public class BucketSortTwo{
     public static void sort(int[] a, int maxVal){

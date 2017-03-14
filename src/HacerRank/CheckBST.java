@@ -1,4 +1,4 @@
-package local.code.hacker;
+package HacerRank;
 
 
 class NodeT{

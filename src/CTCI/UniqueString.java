@@ -1,4 +1,4 @@
-package local.code.hacker.chapterone;
+package CTCI;
 
 public class UniqueString {
 

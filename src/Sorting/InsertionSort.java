@@ -1,4 +1,4 @@
-package local.code.sorting;
+package Sorting;
 
 public class InsertionSort {
     public static <T extends Comparable<T>> void sort(T[] array) {

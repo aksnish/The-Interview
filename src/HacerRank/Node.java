@@ -1,4 +1,4 @@
-package local.code.hacker;
+package HacerRank;
 
 //Please check this: come back to this later;
 

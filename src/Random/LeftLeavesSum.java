@@ -1,4 +1,4 @@
-package local.code.random;
+package Random;
 
 public class LeftLeavesSum {
 

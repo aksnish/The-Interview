@@ -1,4 +1,4 @@
-package local.code.hacker;
+package HacerRank;
 
 import java.util.Scanner;
 

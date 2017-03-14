@@ -1,4 +1,4 @@
-package local.code.sorting;
+package Sorting;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package local.code.sorting;
+package Sorting;
 
 //Java program to find minimum element in a sorted and rotated array
 import java.util.*;
