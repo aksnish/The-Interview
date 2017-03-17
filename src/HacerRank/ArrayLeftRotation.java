@@ -28,6 +28,7 @@ public class ArrayLeftRotation {
             System.out.print(output[i] + " ");
       
         System.out.println();
+       
       
 	}
 
