@@ -1,7 +1,5 @@
 package Datastructures;
 
-import java.awt.HeadlessException;
-
 public class Stack {
 
 	private class Node{
