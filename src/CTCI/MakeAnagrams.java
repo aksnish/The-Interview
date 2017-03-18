@@ -29,4 +29,6 @@ public class MakeAnagrams {
 		String b = in.next();
 		System.out.println(numberNeeded(a, b));
 	}
+	
+	HashMap<String, Integer> map;
 }
