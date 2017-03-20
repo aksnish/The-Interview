@@ -20,7 +20,7 @@ public class StringAllPermutations {
 
 	private static void permutation(String perm, String word) { 
 		if (word.isEmpty()) { 
-			System.err.println(perm + word); 
+			System.out.println(perm + word); 
 		} else { 
 			for (int i = 0; i < word.length(); i++) { 
 //				System.out.println("perm: "+perm);
